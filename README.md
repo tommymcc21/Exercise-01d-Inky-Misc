@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Your Name Tommy McCullough
 
-# Your Github username
+# Your Github username Tommymcc21

@@ -88,7 +88,7 @@ You found this giant cave, seek shelter and lookout for new items!
 
 == rocks ==
 You found tons of rocks. Grab them and see what you find!
-->END
+->deepcave
 
 == deepcave ==
 
@@ -105,11 +105,21 @@ Now that you have explored the cave look for new items to pick up.
 
 == rareitems ==
 
-No way!!! You found the gear youll need to surive in this cave and fight anything off that is going to give you any problems!
-->END
+No way!!! You found the gear you'll need to surive in this cave and fight anything off that is going to give you any problems! Drink some water!
+* [Grab water and drink it.]
+-> drinkwater
 
+== drinkwater ==
+That was a close call, I thought you wernt going to make it! You can leave the cave or keep exploring.
+* [Leave the cave]
+->seashore
+* [Keep exploring]
+->superdeepcave
 
-
+== superdeepcave ==
+You made it to the end of the cave! Congradulations, grab everything that you might need and make your way back to the seashore!
+* [Exit the cave and go back to the seashore]
+->seashore
 
 
     
